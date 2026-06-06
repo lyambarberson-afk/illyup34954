@@ -1,0 +1,6 @@
+{
+  "name": "OmniCreate Studio",
+  "description": "Geological tectonic plate timeline reconstruction, thematic world interactive map, custom high-resolution flag designer, mathematical fractal studio, MS Office suite reports, and cinematic movie slideshow maker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
